@@ -1,0 +1,36 @@
+# Created at 2021-05-13T12:21:00.670
+[AppClassLoader@2aae9190] warning javax.* types are not being woven because the weaver option '-Xset:weaveJavaxPackages=true' has not been specified
+
+# Created at 2021-05-13T12:21:00.680
+[AppClassLoader@2aae9190] warning javax.* types are not being woven because the weaver option '-Xset:weaveJavaxPackages=true' has not been specified
+
+# Created at 2021-05-13T12:21:01.655
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2021-05-13T12:21:01.656
+WARNING: Illegal reflective access by org.codehaus.groovy.reflection.CachedClass (file:/C:/Users/admin/.m2/repository/org/codehaus/groovy/groovy/2.4.15/groovy-2.4.15.jar) to method java.lang.Object.finalize()
+
+# Created at 2021-05-13T12:21:01.658
+WARNING: Please consider reporting this to the maintainers of org.codehaus.groovy.reflection.CachedClass
+
+# Created at 2021-05-13T12:21:01.658
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2021-05-13T12:21:01.659
+WARNING: Illegal reflective access by org.codehaus.groovy.reflection.CachedClass (file:/C:/Users/admin/.m2/repository/org/codehaus/groovy/groovy/2.4.15/groovy-2.4.15.jar) to method java.lang.Object.finalize()
+
+# Created at 2021-05-13T12:21:01.659
+WARNING: Please consider reporting this to the maintainers of org.codehaus.groovy.reflection.CachedClass
+
+# Created at 2021-05-13T12:21:01.660
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2021-05-13T12:21:01.660
+WARNING: All illegal access operations will be denied in a future release
+
+# Created at 2021-05-13T12:21:01.662
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2021-05-13T12:21:01.662
+WARNING: All illegal access operations will be denied in a future release
+
